@@ -49,6 +49,7 @@ Output these values to the console using the `System.out.println()` method that 
 Then, change the value of these variables, and output them once again.
 
 Hint 1: In order to the print the value of the variable itself, type the name of the variable without quotes.
+
 Hint 2: Do you need the access modifier inside the `public static void main(String[] args) {}` method?
 
 A potential solution to this task is posted below; refer to it if you are stuck and need help or if you want to verify your work.
