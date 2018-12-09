@@ -8,4 +8,5 @@ For the initial sections of the course, having *Java* installed on your system w
 
 # Lessons
 Name | Link
+------------ | -------------
 #1 Hello World | [Lesson #1]
