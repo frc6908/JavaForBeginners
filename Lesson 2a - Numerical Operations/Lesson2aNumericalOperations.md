@@ -18,12 +18,12 @@ Division | /
 Modulus (remainder) | %
 Exponents (a to the power of b) | `Math.pow(a, b)`
 Square Root (square root of a) | `Math.sqrt(a)`
-Trignometric sine (sine of a) | `Math.sin(a)`
-Trignometric cosine (cosine of a) | `Math.cos(a)`
-Trignometric tangent (tangent of a) | `Math.tan(a)`
-Trignometric arc sine (arc sine of a) | `Math.asin(a)`
-Trignometric arc cosine (arc cosine of a) | `Math.acos(a)`
-Trignometric arc tangent (arc tangent of a) | `Math.atan(a)`
+Trigonometric sine (sine of a) | `Math.sin(a)`
+Trigonometric cosine (cosine of a) | `Math.cos(a)`
+Trigonometric tangent (tangent of a) | `Math.tan(a)`
+Trigonometric arc sine (arc sine of a) | `Math.asin(a)`
+Trigonometric arc cosine (arc cosine of a) | `Math.acos(a)`
+Trigonometric arc tangent (arc tangent of a) | `Math.atan(a)`
 
 Along with mathematical operators, we also have several variables that are useful when calculating values with mathematics.
 
