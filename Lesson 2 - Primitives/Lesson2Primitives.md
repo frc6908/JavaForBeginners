@@ -5,7 +5,7 @@ This is the second tutorial in the subseries of **Intro Courses**. Here you will
 # Getting Started
 Create a new Java file in your environment called "Primitives.java". **Be sure that the file extension is .java and remove any default code generated.**
 
-# Hello World
+# Primitives
 Primitives are the most simple types of variables you can create in Java. They have behaviors that differ them from Objects, which are their variable counterparts.
 Although there are 8 primitives in Java, we will focus on 4 of them (those have an asterisk next to them).
 
