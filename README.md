@@ -11,7 +11,7 @@ For the initial sections of the course, having *Java* installed on your system w
 ### Intro Courses
 Name | Link
 ------------ | -------------
-Hello World | [Lesson #1]
-Primitives | [Lesson #2]
-Numerical Operations | [Lesson #2a]
-Objects | [Lesson #3]
+Hello World | [Lesson #1] (https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%201%20-%20Hello%20World/Lesson1HelloWorld.md)
+Primitives | Lesson #2
+Numerical Operations | Lesson #2a
+Objects | Lesson #3
