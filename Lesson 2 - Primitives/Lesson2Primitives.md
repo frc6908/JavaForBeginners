@@ -22,14 +22,15 @@ double* | 64 bit float (decimal values)
 
 Whenever you declare a primitive in Java, you declare it as such: `access-modifier type name = value;`
 
-Note that the access-modifier is either `public` (accessible by all classes in the project) or `private` (only accessible inside the class).
+Note that the access-modifier field is **optional** and without one declared it is **default**, which restricts the variable to its package or folder.
+The access-modifier can either `public` (accessible by all classes in the project) or `private` (only accessible inside the class).
 There is also an accessor called `protected`, but we won't be covering it here. Most variables you declare will be `public`.
 
 ```java
 //Example of declaring an public int called myTeam that stores an integer value of 6908
 public int myTeam = 6908;
-//Example of declaring a public boolean called bestTeam that stores a boolean value of true
-public boolean bestTeam = true;
+//Example of declaring a default boolean called bestTeam that stores a boolean value of true
+boolean bestTeam = true;
 //Example of declaring a public char called teamRating that stores a character value of 'A'
 public char teamRating = 'A';
 ```
@@ -47,7 +48,8 @@ Create a program that has 4 primitive variables of types `boolean, char, int, do
 Output these values to the console using the `System.out.println()` method that was covered in the previous tutorial.
 Then, change the value of these variables, and output them once again.
 
-Hint: In order to the print the value of the variable itself, type the name of the variable without quotes.
+Hint 1: In order to the print the value of the variable itself, type the name of the variable without quotes.
+Hint 2: Do you need the access modifier inside the `public static void main(String[] args) {}` method?
 
 A potential solution to this task is posted below; refer to it if you are stuck and need help or if you want to verify your work.
 
@@ -55,17 +57,17 @@ A potential solution to this task is posted below; refer to it if you are stuck 
 ```java
 public class Primitives {
   public static void main(String[] args) {
-    public boolean lightIsOn = false;
-    public char light = '-';
-    public int lightNumber = 0;
-    public double brightness = 0/10;
+    boolean lightIsOn = false;
+    char light = '-';
+    int lightNumber = 0;
+    double brightness = 0/10;
     
     System.out.println(lightIsOn);
     System.out.println(light);
     System.out.println(lightNumber);
     System.out.println(brightness);
     
-    System.out.println("Turn the light on!)"
+    System.out.println("Turn the light on!");
     
     lightIsOn = true;
     light = '!';
@@ -76,6 +78,7 @@ public class Primitives {
     System.out.println(light);
     System.out.println(lightNumber);
     System.out.println(brightness);
+  }
 }
 ```
 
