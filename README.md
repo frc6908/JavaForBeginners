@@ -13,5 +13,5 @@ Name | Link
 ------------ | -------------
 Hello World | [Lesson #1](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%201%20-%20Hello%20World/Lesson1HelloWorld.md)
 Primitives | [Lesson #2](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%202%20-%20Primitives/Lesson2Primitives.md)
-Numerical Operations | Lesson #2a
+Numerical Operations | [Lesson #2a](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%202a%20-%20Numerical%20Operations/Lesson2aNumericalOperations.md)
 Objects | Lesson #3
