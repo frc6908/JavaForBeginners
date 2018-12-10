@@ -55,7 +55,8 @@ Refer to the solution below if you are stuck and need help, or as a verification
 
 ```java
 public class Methods {
-  public static double quadraticSolve(int a, int b, int c) { //Inputs a quadratic equation of form: ax^2+bx+c
+
+  public static double quadraticSolve(int a, int b, int c) { //Inputs a quadratic equation of form: ax^2+bx+c, returns the greatest root
     double discriminant = Math.pow(b, 2)-4*a*c; //Store discriminant in its own variable for reusability
     if(a == 0) {return 0;} //Check divison by 0; return 0 for invalid input
     if(discriminant < 0) {return 0;} //Check for imaginary solutions where discriminant is less than 0; return 0 for invalid input
@@ -65,6 +66,7 @@ public class Methods {
     if(r2 > r1) {return r2;} //Result is r2 if it is greater
     else {return r1;} //Else condition is if they are equal, in which case return either one (I chose to return r1)
   }
+  
   public static void main(String[] args) {
     //Quadratic equation coefficients
     //ax^2+bx+c
