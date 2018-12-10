@@ -24,3 +24,4 @@ Numerical Operations | [Lesson #2a](https://github.com/frc6908/JavaForBeginners/
 Objects | [Lesson #3](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%203%20-%20Objects/Lesson3Objects.md)
 Logical Operations & Conditionals | [Lesson #4](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%204%20-%20Logical%20Operators%20-%20Conditionals/Lesson4LogicalOperatorsConditionals.md)
 Loops | [Lesson #5](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%205%20-%20Loops/Lesson5Loops.md)
+Methods | [Lesson #6](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%206%20-%20Methods/Lesson6Methods.md)
