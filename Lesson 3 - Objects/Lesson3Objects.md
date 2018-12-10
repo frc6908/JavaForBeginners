@@ -87,7 +87,7 @@ We have created a new class called `Dog`. It has 3 variables that define its sta
 
 Next we see two methods called **constructors**. The **default constructor** is one which takes no parameters; thus, it does not know what to make the instance variables equal to. For this reason, we provide default values of `null` and `0`.
 The **manual constructor** is one which takes some parameters; thus, we can set the instance data of the class equal to the values passed in. Note that when assigning values to the String variables, we use the `new` keyword because Strings are objects.
-Also note that *both constructors have the same name as the class: `Dog`, and have no return type.
+Also note that *both constructors have the same name as the class: `Dog`, and have no return type.*
 
 Let's say we wanted to use our Dog class. We can make a **driver class** (which houses the `main` method) called "Main.java".
 **Keep the Main.java file in the same folder as the Dog.java file. If you do this, you will NOT have to import Dog.java in Main.java.**
