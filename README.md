@@ -3,8 +3,8 @@ Java programming course for new members to become well-versed in the language
 
 # Contributing to the repository
 * Fork the repository
-* Make changes
-* Submit a Pull Request
+* Make changes on your copy
+* Submit a Pull Request that details what you added
 
 Additionally you can provide topics that you want discussed on this guide under `Issues`.
 
