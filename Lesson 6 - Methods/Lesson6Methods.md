@@ -1,4 +1,4 @@
-# Lesson #5 Loops
+# Lesson #6 Methods
 
 This is the fifth tutorial in the subseries of **Intro Courses**. Here you will learn about loops in Java and how you can use them to manipulate the flow of your code!
 
