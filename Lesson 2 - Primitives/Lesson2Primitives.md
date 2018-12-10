@@ -73,7 +73,7 @@ public class Primitives {
     lightIsOn = true;
     light = '!';
     lightNumber = 1;
-    brightness = 8/10;
+    brightness = 8.0/10;
     
     System.out.println(lightIsOn);
     System.out.println(light);
