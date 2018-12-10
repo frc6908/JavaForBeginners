@@ -1,6 +1,13 @@
 # JavaForBeginners
 Java programming course for new members to become well-versed in the language
 
+# Contributing to the repository
+* Fork the repository
+* Make changes
+* Submit a Pull Request
+
+Additionally you can provide topics that you want discussed on this guide under `Issues`.
+
 # Before you begin
 Use the following [guide](https://docs.google.com/document/d/1gsHRuXv4nH3QgOnL0EUB5_rmLXk-JnR6QtYgkNwiXGk/edit?usp=sharing) as resource to setup your development environment.
 
