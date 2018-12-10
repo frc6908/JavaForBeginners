@@ -69,8 +69,8 @@ public class Methods {
     //Quadratic equation coefficients
     //ax^2+bx+c
     int a = 1;
-    int b = 4;
-    int c = 4;
+    int b = -17;
+    int c = 72;
     double result = quadraticSolve(a, b, c); //We store the function in a double variable because we expect the function to return a double
     System.out.println("The greatest positive solution of " + a + "x^2 + " + b + "x + " + c + " is " + result);
   }
