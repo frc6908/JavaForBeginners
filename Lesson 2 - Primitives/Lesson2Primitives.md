@@ -35,7 +35,7 @@ boolean bestTeam = true;
 public char teamRating = 'A';
 ```
 
-After declaring a variable, you no longer have to specify the type. **The type is only specified when it is declared. You can redefine it at any time.**
+After declaring a variable, you no longer have to specify the type. **The type is only specified when it is declared. At any time, you can only redefine the value of the primitive.**
 
 ```java
 //Example of redefining a private double called 2018winLossRatio that stores an initial value of 0
