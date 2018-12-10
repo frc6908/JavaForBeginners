@@ -6,7 +6,7 @@ This is the second tutorial in the subseries of **Intro Courses**. Here you will
 Create a new Java file in your environment called "Objects.java". **Be sure that the file extension is .java and remove any default code generated.**
 
 # Objects
-Objects are one of the most important aspects of Java. Coming from Java's title of being an `objected-oriented programming (OOP) language`, objects refer to the second and last set of variables in Java (the first set being primitives).
+Objects are one of the most important aspects of Java. Coming from Java's title of being an `objected-oriented programming (OOP) language`, objects refer to the other set of variables in Java (the first set being primitives).
 
 **An object is an instance of a class in Java.** 
 
