@@ -10,7 +10,7 @@ Create a new Java file in your environment called "Methods.java". **Be sure that
 A method can take variables in as inputs - these are called **parameters**. Parameters are any data that a method receives during the method call.
 Each method has a **return type**, which specifies the type of value that is expected back from the function.
 Each method also has a body, denoted by curly braces `{ }`, which is where the **algorithm**, or the general code for the method is stored.
-Usually an algorithm written should work for any given input.
+The algorithm should work for any given input.
 
 The definition of a method is as follows:
 ```java
