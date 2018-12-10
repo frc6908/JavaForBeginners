@@ -2,9 +2,6 @@
 
 This is the seventh tutorial in the subseries of **Intro Courses**. Here you will learn about packages and imports in Java and how you can use them to use various libraries in your code!
 
-# Getting Started
-Create a new Java file in your environment called "ImportsPackages.java". **Be sure that the file extension is .java and remove any default code generated.**
-
 # Packages
 A **package** in Java is simply a directory or folder in a project. Each package may contain several classes (.java files) that relate to this package.
 
