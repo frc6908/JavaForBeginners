@@ -22,3 +22,4 @@ Hello World | [Lesson #1](https://github.com/frc6908/JavaForBeginners/blob/maste
 Primitives | [Lesson #2](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%202%20-%20Primitives/Lesson2Primitives.md)
 Numerical Operations | [Lesson #2a](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%202a%20-%20Numerical%20Operations/Lesson2aNumericalOperations.md)
 Objects | [Lesson #3](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%203%20-%20Objects/Lesson3Objects.md)
+Logical Operations & Conditionals | [Lesson #4](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%204%20-%20Logical%20Operators%20-%20Conditionals/Lesson4LogicalOperatorsConditionals.md)
