@@ -118,7 +118,7 @@ System.out.println(d2.name); //Outputs: Infuzed
 System.out.println(d2.breed); //Outputs: FRC Team
 System.out.println(d2.age); //Outputs: 6908
 
-System.out.println(d2.bark()); //Outputs: Infuzed says woof!
+d2.bark(); //Outputs: Infuzed says woof!
 ```
 
 Notice that calling `d1.bark()` would result in "null says woof!" because the String name for d1 still has not been set to anything.
