@@ -1,6 +1,6 @@
 # Lesson #6 Methods
 
-This is the fifth tutorial in the subseries of **Intro Courses**. Here you will learn about loops in Java and how you can use them to manipulate the flow of your code!
+This is the sixth tutorial in the subseries of **Intro Courses**. Here you will learn about methods in Java and how you can use them to efficiently group your code based on functionality!
 
 # Getting Started
 Create a new Java file in your environment called "Methods.java". **Be sure that the file extension is .java and remove any default code generated.**
