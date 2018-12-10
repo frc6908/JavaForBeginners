@@ -1,5 +1,7 @@
 # JavaForBeginners
-Java programming course for new members to become well-versed in the language
+Java programming resource for prospective programmers to become well-versed in the language.
+
+Although geared towards prospective programmers on FRC Team 6908 Infuzed, **JavaForBeginners** is a community resource for all who are interested in programming. Share this with anyone curious about coding!
 
 # Contributing to the repository
 * Fork the repository
