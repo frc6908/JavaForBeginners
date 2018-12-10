@@ -28,7 +28,7 @@ Return types can be of any type of variable or object. For example:
 * double
 * boolean
 * String
-* Dog (if the class has been defined)
+* Dog (or any class you have defined)
 
 When writing a method, we must keep all of the parts of a method in mind, so we can design it correctly.
 For example, let's write a method to find the positive root of a quadratic equation. If there are two positive roots, return the larger one.
