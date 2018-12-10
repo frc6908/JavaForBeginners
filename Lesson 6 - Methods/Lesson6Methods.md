@@ -74,7 +74,7 @@ public class Methods {
     int b = -17;
     int c = 72;
     double result = quadraticSolve(a, b, c); //We store the function in a double variable because we expect the function to return a double
-    System.out.println("The greatest positive solution of " + a + "x^2 + " + b + "x + " + c + " is " + result);
+    System.out.println("The greatest solution of " + a + "x^2 + " + b + "x + " + c + " is " + result);
   }
 }
 
