@@ -32,7 +32,7 @@ myString = new String("Now it's not!");
 An object can be characterized by its state and behavior.
 For example, a dog can have **states** such as its name, age, and breed, and **behaviors** such as running and barking.
 
-In a class, the states of an object are modeled with variables inside the class, called **instance data** and the behavior of an object is modeled with **methods**.
+In a class, the states of an object are modeled with variables inside the class, called **instance data** (also called **fields**) and the behavior of an object is modeled with **methods**.
 
 In order to better understand objects, we must dive deeper into classes.
 

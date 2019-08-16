@@ -28,3 +28,4 @@ Logical Operations & Conditionals | [Lesson #4](https://github.com/frc6908/JavaF
 Loops | [Lesson #5](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%205%20-%20Loops/Lesson5Loops.md)
 Methods | [Lesson #6](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%206%20-%20Methods/Lesson6Methods.md)
 Imports & Packages | [Lesson #7](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%207%20-%20Imports%20-%20Packages/Lesson7ImportsPackages.md)
+FRC Programming  | [Lesson #8](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%208%20-%20FRC%20Programming/Lesson8FRCProgramming.md)
