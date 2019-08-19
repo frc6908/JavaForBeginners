@@ -221,7 +221,7 @@ public class RobotMap {
 
 ## OI ##
 
-The **OI** class is used to retrieve input from devices connected to the driver station such as joysticks and controllers.
+The **OI** class is where behaviors for operator devices are defined. 
 
 Example from 2019Neptune:
 
