@@ -1,4 +1,4 @@
-T# Lesson #8 FRC Programming
+# Lesson #8 FRC Programming
 
 Welcome to **FRC Programming**. Here you will learn about WPILib and Robot Classes!
 
