@@ -7,7 +7,7 @@ Welcome to **Subsystem**. Here you will learn about Subsystems!
 
 Subsystems define each part of the robot and their capabilities.
 
-Let's take a look at an example of a drivetrain subsystem
+Let's take a look at an example of a drivetrain subsystem.
 
 ```java
 /*----------------------------------------------------------------------------*/
