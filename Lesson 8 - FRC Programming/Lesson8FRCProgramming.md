@@ -1,4 +1,4 @@
-# Lesson #8 FRC Programming
+T# Lesson #8 FRC Programming
 
 Welcome to **FRC Programming**. Here you will learn about WPILib and Robot Classes!
 
@@ -157,7 +157,7 @@ public class Robot extends TimedRobot {
 
 The **RobotMap** class contains all the devices attached to the robot. 
 
-Example from our 2019Neptune:
+Example from 2019Neptune:
 
 ```java
 /*----------------------------------------------------------------------------*/
@@ -177,32 +177,41 @@ import edu.wpi.first.wpilibj.VictorSP;
 import frc.util.LimitSwitch;
 
 public class RobotMap {
+
+    // Drivetrain motor controllers
     public static WPI_VictorSPX
         frontRightDriveMotor = new WPI_VictorSPX(Constants.kFrontRightMotor), 
         frontLeftDriveMotor = new WPI_VictorSPX(Constants.kFrontLeftMotor),
         backRightDriveMotor = new WPI_VictorSPX(Constants.kBackRightMotor), 
         backLeftDriveMotor = new WPI_VictorSPX(Constants.kBackLeftMotor);
 
+    // Cargo intake motor controllers
     public static Spark
         leftCargoIntakeMotor = new Spark(Constants.kLeftCargoIntakeMotor), 
         rightCargoIntakeMotor = new Spark(Constants.kRightCargoIntakeMotor);
     
+    // Climber wheel motor controller
     public static Spark 
         climberWheelMotor = new Spark(Constants.kClimberWheelPort);
     
+    // Climber lift motor controller
     public static VictorSP
         climberLiftMotor = new VictorSP(Constants.kClimberLiftPort);
-    
+   
+    // Arm motor controllers
     public static WPI_TalonSRX
         armMasterMotor = new WPI_TalonSRX(Constants.kArmMasterPort),
         armSlaveMotor = new WPI_TalonSRX(Constants.kArmSlavePort);
-        
+     
+    // Hatch intake motor controller
     public static Spark 
         hatchIntakeWheelMotor = new Spark(Constants.kHatchIntakeWheelPort);
     
+    // Hatch pivot motor controller
     public static WPI_TalonSRX
         hatchIntakePivotMotor = new WPI_TalonSRX(Constants.kHatchIntakePivotPort);
 
+    // Limit switches for arm reset, and autonomous climb
     public static LimitSwitch
         armZeroLimitSwitch = new LimitSwitch(Constants.kArmZeroLimitSwitchPort),
         climberTopLimitSwitch = new LimitSwitch(Constants.kClimberTopLimitSwitchPort),
@@ -238,14 +247,15 @@ import frc.robot.commands.vision.AlignToTarget;
 import frc.robot.commands.vision.DriveToTarget;
 
 public class OI {
-    // Instantiate the joystick connected to driver station
+    // Joystick connected to the driver station
     public Joystick
         driveStick = new Joystick(Constants.kDriveStickPort);
     
+    // Xbox Controller connected to the driver station
     public XboxController
         operatorController = new XboxController(Constants.kOperatorControllerPort);
 
-    // Instantiate all the buttons from the Xbox Controller and Joystick
+    // Instantiate all the buttons used on the Xbox Controller and Joystick
     public Button
         intakeCargo = new JoystickButton(driveStick, Constants.kIntakeCargoButton),
         intakeHatch = new JoystickButton(driveStick, Constants.kIntakeHatchButton),
@@ -256,7 +266,7 @@ public class OI {
         autoDeployClimber = new JoystickButton(operatorController, Constants.kAutoDeployClimberButton),
         autoRetractClimber = new JoystickButton(operatorController, Constants.kAutoRetractClimberButton);
 
-    // Map commands to certain actions
+    // Map commands to certain button actions
     public OI() {
         intakeCargo.whileHeld(new IntakeCargo());
         intakeHatch.whileHeld(new IntakeHatch());
