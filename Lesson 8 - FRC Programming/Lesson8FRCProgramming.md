@@ -1,7 +1,8 @@
 # Lesson #8 FRC Programming
 
 Welcome to **FRC Programming**. Here you will learn about WPILib and Robot Classes!
-**The [FRC environment](https://docs.google.com/document/d/1gsHRuXv4nH3QgOnL0EUB5_rmLXk-JnR6QtYgkNwiXGk/edit?usp=sharing) is required moving forward**
+**The [FRC environment](https://docs.google.com/document/d/1gsHRuXv4nH3QgOnL0EUB5_rmLXk-JnR6QtYgkNwiXGk/edit?usp=sharing) is required moving forward**.
+
 *This series simplifies the [screensteps](https://wpilib.screenstepslive.com/s/currentCS/m/java) provided by FIRST and WPI*
 
 ## WPILib ##
