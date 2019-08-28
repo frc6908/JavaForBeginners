@@ -11,7 +11,14 @@ The backbone of **Command Based Programming** consists of **Subsystems** and **C
 
 ## File Structure ##
 
-Since robots might have multiple subsystems and commands it is paramount that all the files are organized.
+As robot capabilites expand, there may be numerous subsystems, commands, and other utility scripts, and keeping files organized becomes paramount. 
+
+The following is recommended to maximize file organization: 
+1. Create 2 folders named *subsystems* and *commands* in *ProjectName*/src/main/java/frc/robot.
+2. Create a folder named *utils* in *ProjectName*/src/main/java/frc.
+3. In the *commands* folder, create folders for each subsystem.
+4. Create your subsystems in the *subsystems* folder, and commands in the respective subsystem folder in *commands* folder.
+5. Place all utility scripts in the *utils* folder.
 
 Below is how the files are organized in our 2019 robot code (2019Neptune)
 

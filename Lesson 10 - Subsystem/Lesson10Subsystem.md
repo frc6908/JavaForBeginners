@@ -5,7 +5,7 @@ Welcome to **Subsystem**. Here you will learn about Subsystems!
 
 ## Subsystems ##
 
-Subsystems define each part of the robot and their capabilities.
+Subsystems define each part of the robot and its capabilities.
 
 Let's take a look at an example of a drivetrain subsystem.
 
@@ -33,7 +33,7 @@ public class Drivetrain extends Subsystem {
         leftMotors = new SpeedControllerGroup(RobotMap.frontLeftDriveMotor, RobotMap.backLeftDriveMotor),
         rightMotors = new SpeedControllerGroup(RobotMap.frontRightDriveMotor, RobotMap.backRightDriveMotor);
 
-    // Preliminary code to be called when the subsystems is instantiated
+    // Preliminary code to be called when the subsystem is instantiated
     public Drivetrain() {
         RobotMap.frontLeftDriveMotor.setNeutralMode(NeutralMode.Brake);
         RobotMap.frontRightDriveMotor.setNeutralMode(NeutralMode.Brake);
@@ -42,7 +42,9 @@ public class Drivetrain extends Subsystem {
         rightMotors.setInverted(true);
     }
 
-    // method to set the speed of the drivetrain motors
+    // Put methods for controlling this subsystem here. Call these from Commands.
+
+    // Method to set the speed of the drivetrain motors
     public void setDriveMotors(double leftVoltage, double rightVoltage) {
         leftMotors.set(leftVoltage);
         rightMotors.set(rightVoltage);

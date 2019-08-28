@@ -157,7 +157,7 @@ public class Robot extends TimedRobot {
 
 The **RobotMap** class contains all the devices attached to the robot. 
 
-Example from 2019Neptune:
+Here is an example from 2019Neptune:
 
 ```java
 /*----------------------------------------------------------------------------*/
@@ -223,7 +223,7 @@ public class RobotMap {
 
 The **OI** class is where behaviors for operator devices are defined. 
 
-Example from 2019Neptune:
+Here is an example from 2019Neptune:
 
 ```java
 /*----------------------------------------------------------------------------*/

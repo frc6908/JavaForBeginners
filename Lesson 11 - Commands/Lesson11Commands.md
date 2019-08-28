@@ -6,7 +6,7 @@ Welcome to **Commands**. Here you will learn about Commands!
 
 Commands are robot actions that are use the capabilities defined in subsystems.
 
-Let's look at a command!
+Let's look at a simple command!
 
 ```java 
 /*----------------------------------------------------------------------------*/
@@ -31,7 +31,7 @@ public class ExampleCommand extends Command {
     protected void initialize() {
     }
 
-    // Called repeatedly when this Command is scheduled to run (every 20ms)
+    // Called every 20ms when this Command is scheduled to run
     @Override
     protected void execute() {
     }
