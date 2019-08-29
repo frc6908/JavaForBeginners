@@ -12,6 +12,7 @@ Let's create the subsystem!
 ![folder](https://github.com/frc6908/JavaForBeginners/raw/master/Resources/folder.png "Folder")
 
 2. Select *Create new class/command*
+
 ![class](https://github.com/frc6908/JavaForBeginners/raw/master/Resources/class.png "Class")
 
 3. Select *Subsystem*
