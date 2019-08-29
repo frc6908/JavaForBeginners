@@ -1,4 +1,4 @@
-# Lesson #14d Joystick
+# Lesson #14d Joystick and Arcade Drive
 
 In this lesson, you will learn how to define a Joystick connected to the DS in code!
 
@@ -9,6 +9,7 @@ If you remember from Lesson #8, the **OI** class is used to define behaviors for
 Operator devices are defined in this way : **public *deviceClass* *deviceName* = new *deviceClass*(int portNumber)**
 
 1. Open the OI.java file at myFIRSTproject/src/main/java/frc/robot/OI.java
+
 ![oi](https://github.com/frc6908/JavaForBeginners/raw/master/Resources/oi.png)
 
 2. Define the Joystick
