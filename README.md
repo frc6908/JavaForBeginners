@@ -31,4 +31,5 @@ Imports & Packages | [Lesson #7](https://github.com/frc6908/JavaForBeginners/blo
 
 ### FRC Programming
 Name  | Link
+------------ | -------------
 FRC Programming  | [Lesson #8](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%208%20-%20FRC%20Programming/Lesson8FRCProgramming.md)
