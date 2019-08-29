@@ -33,3 +33,9 @@ Imports & Packages | [Lesson #7](https://github.com/frc6908/JavaForBeginners/blo
 Name  | Link
 ------------ | -------------
 FRC Programming  | [Lesson #8](https://github.com/frc6908/JavaForBeginners/blob/master/Lesson%208%20-%20FRC%20Programming/Lesson8FRCProgramming.md)
+Command Based Programming | [Lesson #9](https://github.com/frc6908/JavaForBeginners/tree/master/Lesson%209%20-%20Command%20Based%20Programming)
+Subsystem | [Lesson #10](https://github.com/frc6908/JavaForBeginners/tree/master/Lesson%2010%20-%20Subsystem)
+Commands | [Lesson #11](https://github.com/frc6908/JavaForBeginners/tree/master/Lesson%2011%20-%20Commands)
+Timed Commands | [Lesson #12](https://github.com/frc6908/JavaForBeginners/tree/master/Lesson%2012%20-%20Timed%20Commands)
+Instant Commands | [Lesson #13](https://github.com/frc6908/JavaForBeginners/tree/master/Lesson%2013%20-%20Instant%20Commands)
+Project | [Lesson #14](https://github.com/frc6908/JavaForBeginners/tree/master/Lesson%2014%20-%20Project)
