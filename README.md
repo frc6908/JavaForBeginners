@@ -11,7 +11,7 @@ Although geared towards prospective programmers on FRC Team 6908 Infuzed, **Java
 Additionally you can provide topics that you want discussed on this guide under `Issues`.
 
 # Before you begin
-Use the following [guide](https://docs.google.com/document/d/1gsHRuXv4nH3QgOnL0EUB5_rmLXk-JnR6QtYgkNwiXGk/edit?usp=sharing) as resource to setup your development environment.
+Use the following [guide](https://docs.google.com/document/d/1wWezuMbd9dz3mqTMOOa3XROUJwUEQejygcypPpixD40/edit#) as resource to setup your development environment.
 
 For the initial sections of the course, having *Java* installed on your system will suffice. Using the Code Runner extension on Visual Studio Code, you can run code in the Visual Studio Code terminal. Alternatively, you can use an online IDE, such as [repl.it](https://repl.it/). For more advanced sections of the tutorial, you will need your entire FRC environment set up.
 
